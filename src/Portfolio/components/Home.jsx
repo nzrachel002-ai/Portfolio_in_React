@@ -1,4 +1,4 @@
-import '../../app.css';
+import '../../App.css';
 import profileImg from '../../img/profile.png';
 
 export default function Home() {
