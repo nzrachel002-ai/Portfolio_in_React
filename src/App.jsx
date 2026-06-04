@@ -4,7 +4,7 @@ import About from "./Portfolio/components/About";
 import Skills from "./Portfolio/components/Skills";
 import Projects from "./Portfolio/components/Project";
 import Contact from "./Portfolio/components/Contact";
-import './app.css';
+import "./app.css";
 
 export default function App() {
   return (
