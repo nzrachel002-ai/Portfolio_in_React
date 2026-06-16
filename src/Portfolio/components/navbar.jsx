@@ -1,6 +1,6 @@
 import '../../App.css';
 
-export default function Navbar() {
+export default function Navbar({ darkMode, toggleTheme }) {
   return (
     <nav className="navbar">
       <h2 className="logo">Portfolio</h2>
@@ -12,6 +12,10 @@ export default function Navbar() {
         <li><a href="#projects">Projects</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
+
+      <button className="theme-toggle" onClick={toggleTheme} aria-label="Toggle theme">
+        <i className={darkMode ? "fas fa-sun" : "fas fa-moon"}></i>
+      </button>
     </nav>
   );
 }
