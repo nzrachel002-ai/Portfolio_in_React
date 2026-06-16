@@ -1,6 +1,6 @@
 import '../../App.css';
 import htmlImg from '../../img/htmimage.png';
-import cssImg from '../../img/CSS-logo.png';
+import cssImg from '../../img/csslogo.png';
 import javascriptImg from '../../img/JSLOGO.png';
 import nodeimg from '../../img/nodejs_image.png';
 import reactimg from '../../img/React_images.png';
