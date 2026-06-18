@@ -23,7 +23,7 @@ export default function Home() {
 
         <div className="home-buttons">
           <button className="btn-hire">Hire Me</button>
-          <button className="btn-work">View Work</button>
+          <a href="https://github.com/nzrachel002-ai" aria-label="GitHub" target='_blank'><button className="btn-work">View Work</button></a>
         </div>
       </div>
 

@@ -61,7 +61,7 @@ export default function About() {
               <div className="edu-info">
                 <span className="edu-year">2023 - 2026</span>
                 <h4>Bachelor in Business Information and Technology</h4>
-                <p>Computer &amp; Software Engineering</p>
+                <p>BBIT</p>
                 <p className="edu-school"><i className="fas fa-building-columns"></i> University of Kigali</p>
               </div>
             </div>
@@ -69,10 +69,10 @@ export default function About() {
             <div className="edu-item">
               <div className="edu-dot"></div>
               <div className="edu-info">
-                <span className="edu-year">2016 - 2019</span>
+                <span className="edu-year">2019 - 2022</span>
                 <h4>Secondary Education</h4>
                 <p>Mathematics, Economics, Computer Science</p>
-                <p className="edu-school"><i className="fas fa-building-columns"></i> Muhororo Secondary School</p>
+                <p className="edu-school"><i className="fas fa-building-columns"></i> Nyarutovu Secondary School</p>
               </div>
             </div>
 

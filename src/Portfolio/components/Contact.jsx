@@ -17,7 +17,7 @@ export default function Contact() {
 
           <ul className="contact-details">
             <li><i className="fas fa-envelope"></i> nzrachel002@gmail.com</li>
-            <li><i className="fas fa-phone"></i> +250 781317681</li>
+            <li><i className="fas fa-phone"></i> +250 781317681/+971541779675</li>
             <li><i className="fab fa-github"></i> https://github.com/nzrachel002-ai</li>
             <li><i className="fas fa-location-dot"></i> Kigali, Rwanda</li>
           </ul>

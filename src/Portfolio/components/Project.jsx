@@ -5,7 +5,7 @@ const projects = [
     title: 'SOEMS',
     description: 'Secure Online Examination Management System — a web-based platform for conducting and managing online exams securely, with user authentication, proctoring features, and result management.',
     tags: ['React', 'Node.js', 'MySQL'],
-    code: '#',
+    code: 'https://github.com/nzrachel002-ai/soems_project',
     live: '#',
   },
 ];
